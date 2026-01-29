@@ -28,7 +28,7 @@ Google Fonts: Utilizing 'Poppins' for a modern, clean typography.
 
 ## Preview
 
-[![imgur](![alt text](image.png))]
+(![alt text](image.png))]
 
 ## Attribution
 
